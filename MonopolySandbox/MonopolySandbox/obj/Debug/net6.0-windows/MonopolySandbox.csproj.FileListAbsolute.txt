@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.Form1.resources
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.csproj.GenerateResource.cache
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.AssemblyInfo.cs
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\bin\Debug\net6.0-windows\MonopolySandbox.exe
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\bin\Debug\net6.0-windows\MonopolySandbox.deps.json
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\bin\Debug\net6.0-windows\MonopolySandbox.runtimeconfig.json
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\bin\Debug\net6.0-windows\MonopolySandbox.dll
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\bin\Debug\net6.0-windows\MonopolySandbox.pdb
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.dll
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\refint\MonopolySandbox.dll
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.pdb
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\MonopolySandbox.genruntimeconfig.cache
+C:\Users\student\source\repos\MonopolySandbox\MonopolySandbox\obj\Debug\net6.0-windows\ref\MonopolySandbox.dll
